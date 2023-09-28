@@ -1,0 +1,21 @@
+ul {
+    display: flex;
+    padding: 15px;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 100px;
+}
+
+.ho {
+    color: #1A1A1A;
+    font-family: Nunito;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 70;
+    line-height: 5px; /* 127.778% */
+
+}
+
+.oo {
+    font-size: 15px;
+}
